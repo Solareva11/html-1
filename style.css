@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:PaleTurquoise ;
+}
+
+h1 {
+   color: MediumSlateBlue;
+   border: 2px solid LightGray;
+   border-radius: 10px;
+   text-align: center;
+}
+
+footer p {
+    background-color:Chartreuse ;
+}
+
+nav {
+    background-color: limegreen;
+    margin: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 40px;
+}
+
+.ap {
+    background-color:PaleGreen ;
+}
+
+.h2style {
+    color: blue;
+}
